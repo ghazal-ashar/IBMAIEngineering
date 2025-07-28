@@ -22,8 +22,7 @@
 
 ---
 
-This repository contains **notes, lab summaries, and exercises** for the  
-[IBM AI Engineer Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer) on Coursera.
+This repository contains **notes, lab summaries, and exercises** for the [IBM AI Engineer Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer) on Coursera.
 
 📘 All **projects** will be hosted in **separate GitHub repositories** and linked below as they are completed.  
 📁 This repo is focused purely on **learning materials** (Jupyter notebooks, Python scripts, and markdown summaries).
